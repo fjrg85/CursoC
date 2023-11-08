@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Espanhol/x64/Debug
+/.vs
+/HolaMundo/.vs/HolaMundo
+/HolaMundo/x64
+/Espanhol/.vs/Espanhol
+/HolaNombre Vacio/.vs/HolaNombre Vacio
+/HolaNombre Vacio/x64/Debug
+/Login/.vs/Login
+/Login/x64
+/Variables/.vs/Variables
+/Variables/x64/Debug
