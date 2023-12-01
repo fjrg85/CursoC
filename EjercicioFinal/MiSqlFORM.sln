@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiSqlFORM", "MiSqlFORM.vcxproj", "{05BC4022-5D63-4E85-8ADD-A15F94779B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Debug|ARM64.ActiveCfg = Debug|x64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Debug|ARM64.Build.0 = Debug|x64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Debug|x64.ActiveCfg = Debug|x64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Debug|x64.Build.0 = Debug|x64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Debug|x86.Build.0 = Debug|Win32
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Release|ARM64.ActiveCfg = Release|ARM64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Release|ARM64.Build.0 = Release|ARM64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Release|x64.ActiveCfg = Release|x64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Release|x64.Build.0 = Release|x64
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Release|x86.ActiveCfg = Release|Win32
+		{05BC4022-5D63-4E85-8ADD-A15F94779B5B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FEC245-12B2-49E1-9820-0A1573105AAF}
+	EndGlobalSection
+EndGlobal

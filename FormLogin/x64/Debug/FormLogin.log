@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Repositories\fjrg85\CursoC\FormLogin\MyForm.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FormLogin.vcxproj -> C:\Repositories\fjrg85\CursoC\FormLogin\x64\Debug\FormLogin.exe

@@ -1,0 +1,5 @@
+C:\Repositories\fjrg85\CursoC\FormLogin\x64\Debug\FormLogin.vcxproj.AssemblyReference.cache
+C:\Repositories\fjrg85\CursoC\FormLogin\x64\Debug\FormLogin.MyForm.resources
+C:\Repositories\fjrg85\CursoC\FormLogin\x64\Debug\FormLogin.vcxproj.GenerateResource.cache
+C:\Repositories\fjrg85\CursoC\FormLogin\x64\Debug\FormLogin.exe
+C:\Repositories\fjrg85\CursoC\FormLogin\x64\Debug\FormLogin.MyForm2.resources
